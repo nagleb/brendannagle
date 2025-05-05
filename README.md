@@ -8,8 +8,8 @@ Passionate about scaling content, leveraging AI for efficiency, and creating hig
 ### 🔗 Featured Work & Projects
 - **Portfolio:** [BNagle.com](https://www.BNagle.com)  
 - **YouTube Channel:** [Daily Wave](https://www.youtube.com/@DailyWave)  
-- **TikTok Success:** Scaled FailArmy’s TikTok from 0 to nearly 20M followers in two years
-- **AI in Content Production:** Leveraging tools like OpenAI, ElevenLabs, and Zapier for automation and workflow optimization  
+- **Platform Growth:** Drove multi-platform expansion for a 17M-subscriber YouTube channel, optimizing cutdowns for TikTok, Facebook, Instagram, and Snapchat.
+- **AI in Content Production:** Leveraging tools like OpenAI, Claude, Invideo, ElevenLabs, Make and Zapier for automation and workflow optimization  
 
 ---
 
